@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/s">
+        <file>citycode-2019-08-23.json</file>
+        <file>myweather.db</file>
+    </qresource>
+</RCC>
